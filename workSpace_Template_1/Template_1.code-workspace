@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Template_1"
+		},
+		{
+			"path": "../Temp1_Zero"
+		},
+		{
+			"path": "../Temp1_me"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Temp1_me"
+	}
+}
